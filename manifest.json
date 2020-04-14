@@ -1,0 +1,17 @@
+{
+  "name": "MapItOut Maps",
+  "short_name": "MapItOut",
+  "theme_color": "#21ce99",
+  "background_color": "#21ce99",
+  "display": "fullscreen",
+  "Scope": "/",
+  "start_url": "/#/maps",
+  "icons": [
+    {
+      "src": "\/assets\/manifest\/logo.svg",
+      "sizes": "72x72",
+      "type": "image/svg"
+    }
+  ],
+  "splash_pages": null
+}
